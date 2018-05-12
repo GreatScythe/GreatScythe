@@ -84,7 +84,7 @@ Function.prototype.extends = function(ParentClass, prototypeImplementations) {
     }, this);
 };
 
-console.info("%cDuckieTV", "color:transparent; font-size: 16pt; line-height: 125px; padding:25px; padding-top:30px; padding-bottom:60px; background-image:url(https://duckietv.github.io/DuckieTV/img/logo/icon128.png); background-repeat:no-repeat; ", "quack!\n\n\n\n\n\n");
+console.info("%cDuckieTV", "color:transparent; font-size: 16pt; line-height: 125px; padding:25px; padding-top:30px; padding-bottom:60px; background-image:url(https://GreatScythe.github.io/img/logo/Dark_Ebil_Scythe.png); background-repeat:no-repeat; ", "*sight*\n\n\n\n\n\n");
 
 if (localStorage.getItem('optin_error_reporting')) {
     /* duckietv_halp */
